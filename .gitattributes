@@ -39,3 +39,8 @@
 *.engine filter=lfs diff=lfs merge=lfs -text
 *.config filter=lfs diff=lfs merge=lfs -text
 *.conf filter=lfs diff=lfs merge=lfs -text
+*.json filter=lfs diff=lfs merge=lfs -text
+*.jsonp filter=lfs diff=lfs merge=lfs -text
+*.svg filter=lfs diff=lfs merge=lfs -text
+*.svgp filter=lfs diff=lfs merge=lfs -text
+*.jpeg filter=lfs diff=lfs merge=lfs -text
